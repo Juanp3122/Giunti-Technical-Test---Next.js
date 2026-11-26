@@ -16,3 +16,8 @@ npm run dev
 - `npm run build`: build de producción
 - `npm run start`: servir el build
 - `npm run lint`: linter
+
+
+## Mejoras propuestas
+
+delegar ciertas acciones como la consulta, filtro y envío de formularios a un servicio back end con el fin de ser consumido.
